@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adityarya11
 - 🌱 I’m currently learning c++
-- ⚡ Fun fact: I am keen learner and love to play Games
+- ⚡ Fun fact: if i get mad, i come to github
 
 <!---
 Adityarya11/Adityarya11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
