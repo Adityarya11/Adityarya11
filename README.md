@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Arya and I use [ZED](https://zed.dev/) btw.
-- You can call me adi (pronounced "aidey").
-- click [Here](https://adityarya.vercel.app/) for more info. 
+
+- click [https://adityarya.vercel.app/](https://adityarya.vercel.app/) for more info. 
 
 <!---
 Adityarya11/Adityarya11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
